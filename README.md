@@ -2,8 +2,8 @@
 I've created a complete, professional YT.D playlist downloader with all the features you requested! Here's what you get: YOUTUBE
 
 LATEST GO TO RELEASE TAB TO CHECK OUT LATEST FIXEX.......!!!!!
-# LATEST VERSION V11FAST-YT-PL, SR,MK PLAY,GUI
-
+# LATEST VERSION V12 FAST-YT-PL, SR,MK PLAY,GUI
+DOWNLOAD - https://github.com/jariwalaproducts/YT-DL-PY-MJ_PROGRAMMER/releases/download/V12/V12.FIXED.FAST-YT-PL.SR.MK.PLAY.GUI.zip
 
 ╔════════════════════════════════════════════════════════════════════╗
 ║              ✨ PERFECT VERSION - FINAL FIX! ✨                     ║
